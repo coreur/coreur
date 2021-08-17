@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+An unknown rookie interested in coding.
+
+### Reach me
+
+- <https://github.com/coreur>
+- <coreur96@outlook.com>
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WeihanLi&theme=dark&layout=compact)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=coreur&show_icons=true&theme=dark&count_private=true)
+
