@@ -26,3 +26,4 @@ An unknown rookie interested in coding.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=coreur&show_icons=true&theme=dark&count_private=true)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
