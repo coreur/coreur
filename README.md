@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=coreur.coreur&left_color=green&right_color=red)
+
 <!--
 **coreur/coreur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,5 +27,3 @@ An unknown rookie interested in coding.
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WeihanLi&theme=dark&layout=compact)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=coreur&show_icons=true&theme=dark&count_private=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
